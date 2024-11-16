@@ -71,5 +71,7 @@ The Electronic Super Store project is a data analysis initiative focused on unde
 - Sales and Profit Breakdown by Region, City, and Channel:
 - Top 3 Most Profitable Manufacturers in Each Region:
 
+###https://www.linkedin.com/posts/arvindbadagi_sql-azuredataengineering-ksrdatavizon-activity-7261747221480505345-10so?utm_source=share&utm_medium=member_desktop
+
 
 
